@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/bg_m0ain.bmp</file>
+        <file>resource/bg_main.bmp</file>
+        <file>resource/fruit_b0g.bmp</file>
+        <file>resource/fruit_bg.bmp</file>
+        <file>resource/fruit_element.bmp</file>
+        <file>resource/fruit_mask.bmp</file>
+        <file>resource/fruit_pause.bmp</file>
+        <file>resource/fruit_pause2.bmp</file>
+        <file>resource/LLK.ico</file>
+        <file>resource/LLK.rc2</file>
+        <file>resource/OIP-C.jpg</file>
+    </qresource>
+</RCC>
