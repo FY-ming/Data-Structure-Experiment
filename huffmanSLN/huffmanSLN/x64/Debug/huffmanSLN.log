@@ -1,0 +1,4 @@
+﻿  compress.cpp
+E:\FYM\university\作业\大二下\数据结构实验\实验一-二叉树与赫夫曼图片压缩\huffmanSLN\compress.cpp(38,22): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+E:\FYM\university\作业\大二下\数据结构实验\实验一-二叉树与赫夫曼图片压缩\huffmanSLN\compress.cpp(200,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  huffmanSLN.vcxproj -> E:\FYM\university\作业\大二下\数据结构实验\实验一-二叉树与赫夫曼图片压缩\huffmanSLN\x64\Debug\huffmanSLN.exe
